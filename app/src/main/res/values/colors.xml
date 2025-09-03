@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+    <color name="Gray">#808080</color>
+    <color name="black">#000000</color>
+    <color name="white_search">#D0D3D4</color>
+    <!--<color name="orange">#c71444</color>-->
+    <color name="orange">#C3002F</color>
+    <color name="orange_combimeter">#ffa500</color>
+    <color name="background">#C3002F</color>
+    <color name="gray">#343434</color>
+    <color name="gray_list_view">#ebebeb</color>
+    <color name="line_color">#b0103b</color>
+
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#7CFC00</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="blue">#00BFFF</color>
+
+
+    <color name="colorPrimaryLight">#84FF19</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDivider">#2FE897</color>
+    <color name="colorBorder">#a7a4a4</color>
+    <color name="colorBottomTutorial">#343434</color>
+    <color name="colorExtra">#fffac1</color>
+
+    <color name="tab_background_selected">#C3002F</color>
+    <color name="tab_background_unselected">#EDEDED</color>
+    <color name="tab_indicator_selected">#C3002F</color>
+    <color name="tab_indicator_unselected">#cccccc</color>
+    <color name="tab_text_color_selected">#C3002F</color>
+    <color name="tab_text_color_unselected">#5e5e5e</color>
+
+    <color name="dialog_button_separator">#9F2636</color>
+    <color name="dialog_button_separator_eur_rus">#808080</color>
+
+    <color name="off_white">#F2F2F2</color>
+    <color name="tab_color">#7E7E7E</color>
+</resources>

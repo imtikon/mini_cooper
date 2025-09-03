@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tyre_11" size="0.500000 0.591017" />
+    <ImageTarget name="tyre_10" size="0.500000 0.573394" />
+    <ImageTarget name="tyre_09" size="0.500000 0.512821" />
+    <ImageTarget name="tyre_08" size="0.500000 0.494500" />
+    <ImageTarget name="back_16" size="0.500000 0.540541" />
+    <ImageTarget name="back_15" size="0.500000 0.523013" />
+    <ImageTarget name="back_14" size="0.500000 0.399000" />
+    <ImageTarget name="back_13" size="0.500000 0.407000" />
+    <ImageTarget name="back_12" size="0.500000 0.389000" />
+    <ImageTarget name="front_14" size="0.500000 0.487000" />
+    <ImageTarget name="front_13" size="0.500000 0.502008" />
+    <ImageTarget name="front_12" size="0.500000 0.504032" />
+    <ImageTarget name="front_11" size="0.500000 0.462500" />
+    <ImageTarget name="front_10" size="0.500000 0.476000" />
+    <ImageTarget name="front_09" size="0.500000 0.401500" />
+    <ImageTarget name="front_08" size="0.500000 0.409000" />
+    <ImageTarget name="front_07" size="0.500000 0.401500" />
+    <ImageTarget name="front_06" size="0.500000 0.399500" />
+    <ImageTarget name="tayre_07" size="0.500000 0.440000" />
+    <ImageTarget name="tayre_06" size="0.500000 0.464000" />
+    <ImageTarget name="tayre_05" size="0.500000 0.413500" />
+    <ImageTarget name="back_11" size="0.500000 0.388000" />
+    <ImageTarget name="back_10" size="0.500000 0.388000" />
+    <ImageTarget name="back_09" size="0.500000 0.401500" />
+    <ImageTarget name="back_08" size="0.500000 0.388000" />
+    <ImageTarget name="door_07" size="0.500000 0.511099" />
+    <ImageTarget name="door_10" size="0.500000 0.502033" />
+    <ImageTarget name="door_09" size="0.500000 0.519337" />
+    <ImageTarget name="door_08" size="0.500000 0.512943" />
+    <ImageTarget name="door_06" size="0.500000 0.410811" />
+    <ImageTarget name="door_05" size="0.500000 0.409884" />
+    <ImageTarget name="front_05" size="0.500000 0.295000" />
+    <ImageTarget name="front_04" size="0.500000 0.305000" />
+    <ImageTarget name="front_03" size="0.500000 0.313000" />
+    <ImageTarget name="front_02" size="0.500000 0.316000" />
+    <ImageTarget name="front_01" size="0.500000 0.212000" />
+    <ImageTarget name="tayre_04" size="0.500000 0.475500" />
+    <ImageTarget name="tayre_03" size="0.500000 0.479037" />
+    <ImageTarget name="tayre_02" size="0.500000 0.492000" />
+    <ImageTarget name="tayre_01" size="0.500000 0.484921" />
+    <ImageTarget name="door_03" size="0.500000 0.421000" />
+    <ImageTarget name="door_02" size="0.500000 0.421667" />
+    <ImageTarget name="door_01" size="0.500000 0.428500" />
+  </Tracking>
+</QCARConfig>

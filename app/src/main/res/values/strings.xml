@@ -1,0 +1,179 @@
+<resources>
+    <!--<string name="app_name">Driver\'s Guide (ME)</string>-->
+    <string name="app_name">Mini Cooper</string>
+    <string name="alert_title1">Language preference</string>
+    <string name="alert_msg1">Your system language is English and it will be your default language in this app. You can change it from the language settings tab.</string>
+    <string name="alert_msg2">This app currently supports English and Simplified Chinese. English will be your default language in this app. You can change it from the language settings tab.</string>
+    <string name="alert_title3">Attention!</string>
+    <string name="alert_msg3">You cannot use this app while driving. Please make sure your vehicle is stationary when using this app.</string>
+    <string name="alert_title4">Disclaimer!</string>
+    <string name="alert_msg5">Please wait...</string>
+    <string name="alert_msg6">Loading the data</string>
+    <string name="alert_title7">Choose your preferred language.</string>
+    <string name="alert_msg7">Torch function is not supported on your device.</string>
+    <string name="alert_msg8">Insufficient light to detect objects.</string>
+    <string name="alert_msg9">Yes, I agree.</string>
+    <string name="alert_msg10">No, I will exit.</string>
+    <string name="alert_msg11">OK</string>
+    <string name="alert_title8">Loading...</string>
+    <string name="alert_msg12">Changing language</string>
+    <string name="alert_title9">Attention!</string>
+    <string name="button_CANCEL">CANCEL</string>
+    <string name="exit_alert">Are you sure you want to exit?</string>
+    <string name="alert_msg13">Do you want to download the language content?</string>
+    <string name="alert_msg14">Yes</string>
+    <string name="alert_msg15">Please connect to the internet to download the content.</string>
+    <string name="alert_msg16">Cancel</string>
+    <string name="alert_msg17">Select language</string>
+    <string name="alert_msg20">Do you really want to exit detection mode?</string>
+    <string name="alert_msg21">Please turn the device to portrait mode in order to access information about this element.</string>
+    <string name="alert_title10">Confirm</string>
+    <string name="alert_msg22">Do you want to download this vehicle content? It may take several minutes based on the speed of your internet connection. It will be downloaded only once for each vehicle.</string>
+    <string name="alert_msg23">Connection not found!</string>
+    <string name="alert_contentNotFound">Content not Available!</string>
+    <string name="alert_title11">Status</string>
+    <string name="alert_msg24">Downloading...</string>
+    <string name="alert_msg25">Download complete</string>
+    <string name="alert_title12">Completed!</string>
+    <string name="alert_msg26">Vehicle content successfully downloaded.</string>
+    <string name="alert_msg27">Go to Home page</string>
+    <string name="alert_msg28">View vehicle</string>
+    <string name="alert_msg29">Add more vehicles</string>
+    <string name="alert_msg30">Do you want to remove this vehicle?</string>
+    <string name="alert_msg31">This will delete all of the downloaded content for this vehicle. Are you sure?</string>
+    <string name="alert_msg32">Vehicle content is already downloaded.</string>
+    <string name="alert_msg33">You do not have any vehicle installed yet. Please go to download page and choose your vehicle.</string>
+    <string name="alert_title13">Saving Content...</string>
+    <string name="alert_msg34">No</string>
+    <string name="alert_msg35">You are currently connected to a low-speed network. Please connect to Wifi/4G/3G to download the file (~100mb).</string>
+    <string name="alert_msg36">Translated content is currently not available.</string>
+    <string name="alert_msg37">Do you want to remove this language content?</string>
+    <string name="alert_msg38">This will delete all the downloaded content for this language. Are you sure?</string>
+    <string name="choose_car">CHOOSE CAR</string>
+    <string name="augmented_reality">AUGMENTED REALITY</string>
+    <string name="_3d_ar">3D AR</string>
+    <string name="_2d_ar">2D AR</string>
+    <string name="scan_dashboard">SCAN YOUR DASHBOARD WITH CAMERA</string>
+    <string name="explore_now">EXPLORE NOW</string>
+    <string name="download_now">DOWNLOAD NOW</string>
+    <string name="warning_light">WARNING LIGHTS</string>
+    <string name="warning_message">WARNING MESSAGES</string>
+    <string name="info">INFO</string>
+    <string name="quick_user_guide">QUICK USER GUIDE</string>
+    <string name="settings">SETTINGS</string>
+    <string name="start_now">START NOW</string>
+    <string name="choose_language">CHOOSE LANGUAGE</string>
+    <string name="change_language">CHANGE LANGUAGE</string>
+    <string name="search">SEARCH</string>
+    <string name="alert_status">Status</string>
+    <string name="alert_downloading">Downloading..</string>
+
+    //circle strings
+    <string name="voice_search">Voice Search</string>
+    <string name="center_click">Center has been clicked</string>
+    <string name="start_app">Starting application: %s</string>
+    <string name="calendar">Calendar</string>
+    <string name="cloud">Cloud</string>
+    <string name="facebook">Facebook</string>
+    <string name="key">Key</string>
+    <string name="mail">Mail</string>
+    <string name="profile">Profile</string>
+    <string name="tag">Tag</string>
+
+    <string-array name="tutorial_titles">
+        <item> EXPLORE YOUR VEHICLE </item>
+        <item> WARNING LIGHTS </item>
+        <item> QUICK USER GUIDE </item>
+    </string-array>
+
+    <string-array name="menu_titles">
+        <item>3D AR</item>
+        <item>Warning Lights</item>
+        <item>WARNING MESSAGES</item>
+        <item>Quick User Guide</item>
+        <!--<item>Settings</item>-->
+    </string-array>
+
+    <string-array name="menu_titles2">
+        <item>2D AR</item>
+        <item>Warning Lights</item>
+        <item>WARNING MESSAGES</item>
+        <item>Quick User Guide</item>
+        <!--<item>Settings</item>-->
+    </string-array>
+
+    <string-array name="submenu_titles">
+        <item>Car SELECTION</item>
+        <item>Tutorial</item>
+        <item>LANGUAGE SELECTION</item>
+    </string-array>
+
+    <string name="car_selection">Car SELECTION</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="language_selection">LANGUAGE SELECTION</string>
+
+    <string-array name="tutorial_details">
+        <item>
+            Get to know all the controls your INFINITI has to offer using Augmented Reality technology.
+            \n Simply point your smartphone camera at a control and click on the pop-up to access information.
+        </item>
+        <item>
+            Information on warning lights that may light up in the combination meter of your vehicle is made available to you at the touch of a button.
+            \n Offering quick, simple and easy access to all the information you need.
+        </item>
+        <item>
+            Access an electronic version of your Quick Reference Guide to discover all the features of your INFINITI.
+        </item>
+    </string-array>
+
+    // vuforia strings
+    <string name="INIT_ERROR">Error</string>
+    <string name="INIT_ERROR_DEVICE_NOT_SUPPORTED">Failed to initialize Vuforia. This device is not supported.</string>
+    <string name="INIT_ERROR_NO_CAMERA_ACCESS">Failed to initialize Vuforia. Camera not accessible</string>
+    <string name="INIT_LICENSE_ERROR_MISMATCH_KEY">Vuforia App key is not valid for this product. Please get a valid key, by logging into your account at developer.vuforia.com and choosing the right product type during project creation.</string>
+    <string name="INIT_LICENSE_ERROR_MISSING_KEY">Vuforia App key is missing. Please get a valid key, by logging into your account at developer.vuforia.com and creating a new project.</string>
+    <string name="INIT_LICENSE_ERROR_INVALID_KEY">Invalid Key used. Please make sure you are using a valid Vuforia App Key.</string>
+    <string name="INIT_LICENSE_ERROR_NO_NETWORK_TRANSIENT">Unable to contact server. Please try again later.</string>
+    <string name="INIT_LICENSE_ERROR_NO_NETWORK_PERMANENT">No network available. Please make sure you are connected to the Internet.</string>
+    <string name="INIT_LICENSE_ERROR_CANCELED_KEY">This app license key has been canceled and may no longer be used. Please get a new license key.</string>
+    <string name="INIT_LICENSE_ERROR_PRODUCT_TYPE_MISMATCH">Vuforia App key is not valid for this product. Please get a valid key, by logging into your account at developer.vuforia.com and choosing the right product type during project creation.</string>
+    <string name="INIT_LICENSE_ERROR_UNKNOWN_ERROR">Failed to initialize Vuforia.</string>
+    <string name="INIT_OBJECT_DATASET_NOT_FOUND_TITLE">Database not found</string>
+    <string name="INIT_OBJECT_DATASET_NOT_FOUND">Please scan an object and load a database</string>
+    <string name="button_OK">OK</string>
+    <string name="menu_back">Vuforia Samples</string>
+    <string name="menu_extended_tracking">Extended Tracking</string>
+    <string name="menu_character_mode">Character Mode</string>
+    <string name="menu_flash">Flash</string>
+    <string name="menu_flash_error_on">Unable to turn on flash</string>
+    <string name="menu_flash_error_off">Unable to turn off flash</string>
+    <string name="menu_contAutofocus">Autofocus</string>
+    <string name="menu_contAutofocus_error_on">Unable to activate Continuous Auto-Focus</string>
+    <string name="menu_contAutofocus_error_off">Unable to deactivate Continuous Auto-Focus</string>
+    <string name="menu_datasets">DATASETS</string>
+    <string name="menu_camera">CAMERA</string>
+    <string name="menu_camera_front">Front</string>
+    <string name="menu_camera_back">Rear</string>
+    <string name="menu_button_red">Red</string>
+    <string name="menu_button_blue">Blue</string>
+    <string name="menu_button_yellow">Yellow</string>
+    <string name="menu_button_green">Green</string>
+    <string name="title_activity_q50_augmented">Q50AugmentedActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="alert_msg43">Do you want to exit?</string>
+
+    <string name="single_target">Single</string>
+    <string name="multi_target">Multiple</string>
+
+    <string name="multiple_detection_message">When light is not sufficient, please switch to Single Detection Mode</string>
+    <string name="reload">Reload</string>
+
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+
+    <string name="single_object_detection">Single Object Detection</string>
+    <string name="multiple_object_detection">Multiple Object Detection</string>
+
+</resources>
